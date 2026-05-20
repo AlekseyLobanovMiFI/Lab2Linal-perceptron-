@@ -71,7 +71,7 @@ L=-\frac{1}{N}\sum_{i=1}^{N}\left[y_i\log(\hat y_i)+(1-y_i)\log(1-\hat y_i)\righ
 
 ## График функции потерь
 
-![Loss](images/base_loss.png)
+![Loss](images/baseLoss.png)
 
 ## Разделяющая граница
 
